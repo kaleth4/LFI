@@ -1,4 +1,4 @@
-# 🔐 **Rearme: Guía Definitiva de Local File Inclusion (LFI)**
+# 🔐 **Guía Definitiva de Local File Inclusion (LFI)**
 *Un manual práctico para entender, detectar y mitigar esta vulnerabilidad crítica*
 
 ---
